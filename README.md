@@ -42,4 +42,3 @@
 ## :page_facing_up: Licença
 
 Este projeto está sob a Licença MIT.
-```
